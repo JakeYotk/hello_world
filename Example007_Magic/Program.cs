@@ -46,3 +46,6 @@ while(count < 10000)
     count++;
 
     }
+
+
+Console.ReadLine();
